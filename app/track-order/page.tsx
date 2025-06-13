@@ -255,5 +255,11 @@ export default function TrackOrderPage() {
             </div>
           </div>
 
-          <div className="mt-6 text-center">
-            <Button variant\
+          <Button  className="px-6 py-2">
+              Back to Orders
+            </Button>
+          </div>
+      )}
+    </div>
+  )
+}
